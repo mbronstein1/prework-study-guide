@@ -20,4 +20,4 @@ N/A
 
 ## License
 
-This application is licensed with the MIT license, which can be viewed [here](https://choosealicense.com/licenses/mit/)
+This application is licensed with the MIT license, which can be viewed [here](https://choosealicense.com/licenses/mit/).
