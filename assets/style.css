@@ -51,6 +51,10 @@ p {
     background-color: lightpink;
 }
 
+#css-section img {
+    max-width: 100%;
+}      
+
 #git-section {
     background-color: lightyellow;
 }
